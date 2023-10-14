@@ -22,8 +22,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [solution URL here](https://github.com/Tomi-pter/3-column-preview-card.git)
-- Live Site URL: [live site URL here](https://tomi-column-card.netlify.app/)
+- Solution URL: [GitHub URL here](https://github.com/Tomi-pter/Coalition.git)
+- Live Site URL: [live site URL here](https://tomi-coalition.netlify.app/)
 
 ## My process
 
